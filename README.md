@@ -1,4 +1,5 @@
 # Multiple Disease Prediction Streamlit App
+https://onsite-health-diagnostic-webapp.streamlit.app/" here is the app link"
 
 This repository contains the codebase for a Streamlit web application designed to predict multiple diseases. It includes the necessary scripts, notebooks, and datasets.
 
