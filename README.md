@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raameshgyawali127" alt="raameshgyawali127" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twiter.com/u/rameshgyawali/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twiter.com/u/rameshgyawali/?logo=twitter&style=for-the-badge" alt="https://twiter.com/u/rameshgyawali/" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rameshgyawali" target="blank"><img src="https://img.shields.io/twitter/follow/rameshgyawali?logo=twitter&style=for-the-badge" alt="rameshgyawali" /></a> </p>
 
 - 🔭 I’m currently working on **Stress Prediction using Transformer**
 
@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twiter.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twiter.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://twitter.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rameshgyawali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramesh-gyawali-53777724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-gyawali-53777724a" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://kaggle.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/u/rameshgyawali/" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/u/rameshgyawali/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://kaggle.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rameshgyawali" height="30" width="40" /></a>
+<a href="https://fb.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rameshgyawali" height="30" width="40" /></a>
+<a href="https://instagram.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rameshgyawali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vtu21452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vtu21452" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rameshgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rameshgyawali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raameshgyawali127&show_icons=true&locale=en" alt="raameshgyawali127" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raameshgyawali127&" alt="raameshgyawali127" /></p>
-
