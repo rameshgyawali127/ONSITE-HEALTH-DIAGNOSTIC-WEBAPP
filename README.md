@@ -1,45 +1,37 @@
-# Multiple Disease Prediction Streamlit App
-https://onsite-health-diagnostic-webapp.streamlit.app/" here is the app link"
+<h1 align="center">Hi 👋, I'm Ramesh Gyawai</h1>
+<h3 align="center"># Multiple Disease Prediction Streamlit App https://onsite-health-diagnostic-webapp.streamlit.app/" here is the app link" This repository contains the codebase for a Streamlit web application designed to predict multiple diseases. It includes the necessary scripts, notebooks, and datasets. ## Contents 1. `app.py`: This is the main Streamlit application code. 2. `requirements.txt`: This file lists all the Python libraries required to run the Streamlit app. You can install them using `pip install -r requirements.txt`. 3. `notebooks/`: This directory contains Jupyter notebooks used for data preprocessing, model training, and evaluation. 4. `datasets/`: This directory holds the datasets used for training and testing the predictive models. ## Installation To set up the environment for running the Streamlit app, follow these steps: 1. Clone this repository to your local machine. 2. Navigate to the project directory. ```bash cd multiple-disease-prediction-streamlit-app Install the required Python libraries by running: bash Copy code pip install -r requirements.txt Depending on your system configuration, you may need to install additional libraries for running the Jupyter notebooks. Please refer to the specific notebook instructions for any additional requirements. Usage After installing the dependencies, you can run the Streamlit app using the following command: bash Copy code streamlit run app.py This command will start a local server hosting the Streamlit app, and you can access it through your web browser. Notebooks The notebooks in the notebooks/ directory provide detailed steps for data preprocessing, model training, and evaluation. Follow the instructions within each notebook to execute the code and reproduce the results. Datasets The datasets/ directory contains the datasets used for training and testing the predictive models. Ensure that the paths specified in the notebooks or the Streamlit app code match the location of these datasets on your local machine. Contributing If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome! License This project is licensed under the MIT License.</h3>
 
-This repository contains the codebase for a Streamlit web application designed to predict multiple diseases. It includes the necessary scripts, notebooks, and datasets.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raameshgyawali127&label=Profile%20views&color=0e75b6&style=flat" alt="raameshgyawali127" /> </p>
 
-## Contents
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raameshgyawali127" alt="raameshgyawali127" /></a> </p>
 
-1. `app.py`: This is the main Streamlit application code.
-2. `requirements.txt`: This file lists all the Python libraries required to run the Streamlit app. You can install them using `pip install -r requirements.txt`.
-3. `notebooks/`: This directory contains Jupyter notebooks used for data preprocessing, model training, and evaluation.
-4. `datasets/`: This directory holds the datasets used for training and testing the predictive models.
+<p align="left"> <a href="https://twitter.com/https://twiter.com/u/rameshgyawali/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twiter.com/u/rameshgyawali/?logo=twitter&style=for-the-badge" alt="https://twiter.com/u/rameshgyawali/" /></a> </p>
 
-## Installation
+- 🔭 I’m currently working on **Stress Prediction using Transformer**
 
-To set up the environment for running the Streamlit app, follow these steps:
+- 🌱 I’m currently learning **Machine learning and Data Science**
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
+- 👨‍💻 All of my projects are available at [gyawlairamesh.com.np](gyawlairamesh.com.np)
 
-```bash
-cd multiple-disease-prediction-streamlit-app
-Install the required Python libraries by running:
-bash
-Copy code
-pip install -r requirements.txt
-Depending on your system configuration, you may need to install additional libraries for running the Jupyter notebooks. Please refer to the specific notebook instructions for any additional requirements.
-Usage
-After installing the dependencies, you can run the Streamlit app using the following command:
+- 📫 How to reach me **gamingrowmexh@gmail.com**
 
-bash
-Copy code
-streamlit run app.py
-This command will start a local server hosting the Streamlit app, and you can access it through your web browser.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twiter.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twiter.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramesh-gyawali-53777724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-gyawali-53777724a" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://kaggle.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://fb.com/https://facebook.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/u/rameshgyawali/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vtu21452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vtu21452" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/rameshgyawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rameshgyawali/" height="30" width="40" /></a>
+</p>
 
-Notebooks
-The notebooks in the notebooks/ directory provide detailed steps for data preprocessing, model training, and evaluation. Follow the instructions within each notebook to execute the code and reproduce the results.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Datasets
-The datasets/ directory contains the datasets used for training and testing the predictive models. Ensure that the paths specified in the notebooks or the Streamlit app code match the location of these datasets on your local machine.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raameshgyawali127&show_icons=true&locale=en&layout=compact" alt="raameshgyawali127" /></p>
 
-Contributing
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raameshgyawali127&show_icons=true&locale=en" alt="raameshgyawali127" /></p>
 
-License
-This project is licensed under the MIT License.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raameshgyawali127&" alt="raameshgyawali127" /></p>
+
